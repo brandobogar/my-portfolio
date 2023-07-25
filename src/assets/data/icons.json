@@ -1,0 +1,22 @@
+[
+  { "name": "flutter", "src": "icon/flutter.svg" },
+  { "name": "react", "src": "icon/react.svg" },
+  { "name": "nextjs", "src": "icon/nextjs.svg" },
+  { "name": "tensorflow", "src": "icon/tensorflow.svg" },
+  { "name": "python", "src": "icon/python.svg" },
+  { "name": "html", "src": "icon/html.svg" },
+  { "name": "css", "src": "icon/css.svg" },
+  { "name": "javascript", "src": "icon/javascript.svg" },
+  { "name": "flask", "src": "icon/flask.svg" },
+  { "name": "unity", "src": "icon/unity.svg" },
+  { "name": "blender", "src": "icon/blender.svg" },
+  { "name": "tailwind", "src": "icon/tailwind.svg" },
+  { "name": "github", "src": "icon/github.svg" },
+  { "name": "illustrator", "src": "icon/illustrator.svg" },
+  { "name": "instagram", "src": "icon/instagram.svg" },
+  { "name": "linkedin", "src": "icon/linkedin.svg" },
+  { "name": "photoshop", "src": "icon/photoshop.svg" },
+  { "name": "linkedin", "src": "icon/linkedin.svg" },
+  { "name": "twitter", "src": "icon/twitter.svg" }
+ 
+]
